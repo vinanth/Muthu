@@ -9,6 +9,7 @@
  xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+   xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
   <Version>15.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
