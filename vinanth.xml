@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="2.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -9,7 +9,7 @@
  xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <Version>14.00</Version>
+  <Version>15.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <Colors>
